@@ -1,4 +1,4 @@
-# There are such groups of templates: 
+# There are such groups of patterns: 
 
 1. Generating patterns:
 
